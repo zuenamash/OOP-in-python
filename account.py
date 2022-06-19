@@ -122,13 +122,6 @@ class Account:
             
 
 
-    # def borrow(self,deposit,loan_balance):
-    #     if (len(deposit))>=10:
-    #         return f"Yes you can proceed"
-    #     elif loan_balance > 100:
-    #         return f"proceed"
-    #     elif loan_balance<=1/3(account_balance):
-
 
 #3     Add a new method  full_statement which combines both deposits and 
 # withdrawals into one list ordered by date and using a for loop prints
